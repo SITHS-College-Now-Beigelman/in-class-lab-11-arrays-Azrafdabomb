@@ -1,0 +1,2 @@
+
+        cout << alpha[i] << endl;
